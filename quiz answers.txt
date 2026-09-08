@@ -1,0 +1,12 @@
+Why do programmers typically use a repository for their software projects?
+
+To keep track of changes
+
+Which of the following is/are correct?
+
+An end block can have multiple flowlines going out of it.
+A condition has usually two flowlines going out of it, one for true and one for false.
+
+If we want to count from 1 to 10 in a flowchart, which of the following to we typically use?
+
+Process
